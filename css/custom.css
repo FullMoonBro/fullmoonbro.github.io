@@ -18,6 +18,14 @@ ul.nav{
 	background-image: url('../image/khartoum1.jpeg');
 	color:white;
 }
+#back-to-top{
+	position:fixed;
+	bottom:20px;
+	right:20px;
+}
+#back-to-top a{
+	color:#333;
+}
 .jumbotron h1{
 	margin-top:0px;
 	margin-bottom:50px;
