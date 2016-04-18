@@ -37,6 +37,11 @@ ul.nav{
 	font-weight:100;
 	padding:0 50px;
 }
+.jumbotron .form-centrol{
+height:69px;
+font-size:38px;
+
+}
 .modal-content iframe{
 
 margin-top:15px;
@@ -53,6 +58,17 @@ margin-bottom:10px;
     opacity: 1;
     border-radius: 24px;
     -webkit-border-radius: 24px;
+}
+.modal-dialog{
+position:absolute;
+left:50%;
+margin-left:-300px;
+top:50%;
+margin-top: -173px;
+
+
+
+
 }
 
 .btn-lg{
